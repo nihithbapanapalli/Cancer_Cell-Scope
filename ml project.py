@@ -25,9 +25,9 @@ import matplotlib.pyplot as plt
 # In[ ]:
 
 
-train_path ="/home/nihith/Downloads/BreaKHis 400X/train"
-validation_path ="/home/nihith/Downloads/BreaKHis 400X/test"
-prediction_path = "/home/nihith/Downloads/BreaKHis 400X/prediction"
+train_path ="/home/Downloads/BreaKHis 400X/train"
+validation_path ="/home/Downloads/BreaKHis 400X/test"
+prediction_path = "/home/Downloads/BreaKHis 400X/prediction"
 
 
 # In[ ]:
